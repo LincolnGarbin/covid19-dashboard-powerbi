@@ -23,10 +23,10 @@ Utilizei dados da OMS e do Ministério da Saúde, tratei-os utilizando SQL no Go
 
 ## 📁 Estrutura
 
-- `queries.sql`: queries utilizadas no tratamento dos dados no BigQuery
-- `covid19_dashboard.pbix`: arquivo do dashboard 
-- `imagens/`: imagens do dashboard
-- `estrutura_tabelas.md`: explicação sobre a estrutura das tabelas tratadas
+- [`queries.sql`](queries.sql): queries utilizadas no tratamento dos dados no BigQuery  
+- [`covid19_dashboard.pbix`](covid19_dashboard.pbix): arquivo do dashboard  
+- [`imagens/`](imagens/): pasta com todas as imagens utilizadas no dashboard  
+- [`estrutura_tabelas.md`](estrutura_tabelas.md): explicação sobre a estrutura das tabelas
 
 ## 📊 Imagens do Dashboard
 

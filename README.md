@@ -26,7 +26,7 @@ Utilizei dados da OMS e do Ministério da Saúde, tratei-os utilizando SQL no Go
 - `queries.sql`: queries utilizadas no tratamento dos dados no BigQuery
 - `covid19_dashboard.pbix`: arquivo do dashboard 
 - `imagens/`: imagens do dashboard
-- `resumo_dados.txt`: explicação sobre as fontes de dados
+- `estrutura_tabelas.md`: explicação sobre a estrutura das tabelas tratadas
 
 ## 📊 Imagens do Dashboard
 

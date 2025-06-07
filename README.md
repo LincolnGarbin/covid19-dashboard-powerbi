@@ -36,5 +36,5 @@ Utilizei dados da OMS e do Ministério da Saúde, tratei-os utilizando SQL no Go
 
 ## 🎥 Vídeo
 
-[Link para vídeo demonstrativo do projeto no YouTube](https://youtu.be/SEU-LINK-AQUI)
+[Video ainda em produção](https://youtu.be/SEU-LINK-AQUI)
 

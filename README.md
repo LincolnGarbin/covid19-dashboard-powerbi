@@ -28,7 +28,7 @@ Utilizei dados da OMS e do Ministério da Saúde, tratei-os utilizando SQL no Go
 - `imagens/`: imagens do dashboard
 - `resumo_dados.txt`: explicação sobre as fontes de dados
 
-## 📊 Print do Dashboard
+## 📊 Imagens do Dashboard
 
 ![Dashboard](./Imagens/CapaCovid-19(Final).png)
 

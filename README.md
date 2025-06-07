@@ -30,7 +30,7 @@ Utilizei dados da OMS e do Ministério da Saúde, tratei-os utilizando SQL no Go
 
 ## 📊 Print do Dashboard
 
-![Dashboard](./imagens/capa_dashboard.png)
+![Dashboard](./Imagens/CapaCovid-19(Final).png)
 
 ## 🎥 Vídeo
 
